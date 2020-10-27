@@ -39,8 +39,8 @@ end
 def play(board)
   rounds = 0
 until rounds = 9
-rounds +=1
 turn(board)
+rounds +=1
 end
 end
   
